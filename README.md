@@ -104,3 +104,11 @@ Special attention was given to:
 ```bash
 git clone https://github.com/your-username/ai-spam-detector.git
 cd ai-spam-detector
+
+
+Step 2: Install dependencies
+pip install -r requirements.txt
+Step 3: Run the Streamlit app
+streamlit run app.py
+
+The app will open in your browser.
