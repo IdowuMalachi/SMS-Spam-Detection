@@ -80,6 +80,8 @@ The final trained model was saved using `joblib` for deployment.
 ### 5️⃣ Deployment
 The model is deployed using **Streamlit**, allowing users to input SMS messages and receive real-time predictions.
 
+https://sms-spam-detection-f9axuwfxyjjeftdbkzoegr.streamlit.app/#confidence
+
 ---
 
 ## 📊 Model Evaluation
